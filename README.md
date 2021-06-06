@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aryramadhans
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aryramadhans@gmail.com
 
 <!---
 aryramadhans/aryramadhans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
